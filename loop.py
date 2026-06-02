@@ -16,5 +16,5 @@ else:
     print('loop Completed')
 a='2'
 print(float(a) + b)
-print('Loop Learning Continuesssssssssss. v2.2222222222222222222222')
+print('Loop Learning Continuesssssssssss. v2)
 print('Script Completed')
